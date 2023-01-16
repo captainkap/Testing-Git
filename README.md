@@ -1,3 +1,3 @@
 #Demo
 
-Testing a new Git file and using GitHub.
+Testing a new Git file and using GitHub!
